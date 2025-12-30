@@ -1,0 +1,7 @@
+/home/PdistProject/build/CMakeFiles/cust_tf_parsers.dir
+/home/PdistProject/build/CMakeFiles/edit_cache.dir
+/home/PdistProject/build/CMakeFiles/rebuild_cache.dir
+/home/PdistProject/build/CMakeFiles/list_install_components.dir
+/home/PdistProject/build/CMakeFiles/install.dir
+/home/PdistProject/build/CMakeFiles/install/local.dir
+/home/PdistProject/build/CMakeFiles/install/strip.dir

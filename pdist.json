@@ -1,0 +1,38 @@
+[
+    {
+        "op": "Pdist",
+        "language": "cpp",
+        "input_desc": [
+            {
+                "name": "x",
+                "paramType": "required",
+                "format": [
+                    "ND"
+                ],
+                "type": [
+                    "fp16", "fp32"
+                ]
+            }
+        ],
+        "output_desc": [
+            {
+                "name": "y",
+                "paramType": "required",
+                "format": [
+                    "ND"
+                ],
+                "type": [
+                    "fp16", "fp32"
+                ]
+            }
+        ],
+        "attr": [
+            {
+                "name": "p",
+                "paramType": "optional",
+                "type": "float",
+                "defaultValue": "2.0"
+            }
+        ]
+    }
+]

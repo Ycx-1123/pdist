@@ -1,0 +1,1 @@
+/usr/bin/aarch64-linux-gnu-g++ -fPIC -g -shared -Wl,-soname,libcust_tf_parsers.so -o libcust_tf_parsers.so CMakeFiles/cust_tf_parsers.dir/tensorflow_pdist_plugin.o  -lintf_pub -lgraph 

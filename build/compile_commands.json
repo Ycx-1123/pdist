@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/PdistProject/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -Dcust_tf_parsers_EXPORTS -Dgoogle=ascend_private  -g -fPIC -o CMakeFiles/cust_tf_parsers.dir/tensorflow_pdist_plugin.o -c /home/PdistProject/PdistOp/framework/tf_plugin/tensorflow_pdist_plugin.cc",
+  "file": "/home/PdistProject/PdistOp/framework/tf_plugin/tensorflow_pdist_plugin.cc"
+}
+]

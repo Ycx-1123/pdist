@@ -1,0 +1,3 @@
+/home/PdistProject/TestPdist/build/CMakeFiles/main.dir
+/home/PdistProject/TestPdist/build/CMakeFiles/edit_cache.dir
+/home/PdistProject/TestPdist/build/CMakeFiles/rebuild_cache.dir
